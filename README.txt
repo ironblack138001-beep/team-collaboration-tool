@@ -45,13 +45,9 @@ cd frontend
 npm install
 npm run dev
 
-Environment Variables (create .env in backend folder):
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
 
 Deployment:
-Backend is deployed using Railway and frontend can be deployed using Vercel or similar platform.
+The application is deployed using Render. The backend and frontend are both hosted on Render, and the application is fully accessible via the live URL.
 
 Live Application URL:
 https://team-collaboration-tool1.onrender.com
